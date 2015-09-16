@@ -1,1 +1,5 @@
 # harbour
+
+* Grunt
+* Bower
+* EditorConfig
